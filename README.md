@@ -112,6 +112,29 @@ This repo is a tutorial for local and firebase notifications in flutter.
 <hr> </hr>
 
 
+## 1. Firebase (FCM) Notifications
+  
+ <table>
+   <tbody> 
+   <tr>
+         <td><img src="https://user-images.githubusercontent.com/45822686/155171316-680d1ef4-5004-49f9-9bce-249ac09b9aee.png" height=200pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/155171450-200ea41e-31d1-4b32-b6ac-d0e457e7f29e.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/155171469-8d8e0d1a-4c08-41e1-93f4-6119a7ec2cd8.png"height=300pm></td>
+      </tr>
+
+   </tbody>
+</table>
+
+
+#### Packages in use:
+
+* flutter_svg: ^1.0.3
+* flutter_local_notifications: ^9.3.2
+* firebase_core: ^1.12.0
+* firebase_messaging: ^11.2.6
+
+<hr> </hr>
+
 
 
 ## To use this app follow below instructions :
